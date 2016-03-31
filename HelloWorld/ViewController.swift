@@ -16,7 +16,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     // MARK: Actions
     @IBAction func changeGreeting(sender: AnyObject) {
-        self.label.te = "Hello,\(self.textField.text!)"
+        self.label.text = "Hello,\(self.textField.text!)"
     }
     
     // MARK: UITextFieldDelegate
