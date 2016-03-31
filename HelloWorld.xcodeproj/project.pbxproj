@@ -156,6 +156,7 @@
 		E9AA68F01BA4E358005F0C54 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Joseph Dwumfour";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				E9AA69191BA4E358005F0C54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9AA691A1BA4E358005F0C54 /* Build configuration list for PBXNativeTarget "HelloWorldTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				E9AA691C1BA4E358005F0C54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
